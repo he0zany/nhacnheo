@@ -17,13 +17,14 @@
     <application
         android:name=".TimberApp"
         android:allowBackup="false"
-        android:label="Timber${appNameSuffix}"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Music"
         android:theme="@style/AppTheme.FullScreen.Light"
         tools:replace="android:allowBackup, android:label">
 
         <activity
             android:name=".activities.MainActivity"
-            android:label="Timber${appNameSuffix}"
+            android:label="Music"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -82,8 +83,6 @@
         <activity
             android:name=".activities.NowPlayingActivity"
             android:theme="@style/AppTheme.FullScreen.Light" />
-
-        <activity android:name=".activities.DonateActivity"/>
 
         <activity
             android:name=".cast.ExpandedControlsActivity"

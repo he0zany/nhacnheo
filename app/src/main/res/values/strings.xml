@@ -162,7 +162,7 @@
 
     <string name="menu_show_lyrics">Show lyrics</string>
     <string name="no_lyrics">No lyrics found.</string>
-    <string name="lyrics_makeitpersonal">Powered by <a href="https://makeitpersonal.co/">makeitpersonal.co</a></string>
+    <string name="lyrics_makeitpersonal">Nothing</string>
     <string name="cast">Cast</string>
     <string name="now_playing_no_track_selected">\"No current track selected.</string>
     <string name="lyrics_loading">Loading...</string>
